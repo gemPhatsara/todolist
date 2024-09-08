@@ -1,6 +1,6 @@
 ## Prerequisites
 - **Node.js** (version 18.x and above)
-- **npm** (iincluded with Node,js) or **yarn**
+- **npm** (iincluded with Node.js) or **yarn**
 
 ## Installation
 
@@ -14,10 +14,10 @@ npm install
 ### 3. Install cypress
 npx install cypress
 __________________________________________________________________________________________________
-### Runing test command
+### Runing test Headless Mode
 npx cypress run
 
-### Runing test ui
+### Runing test UI Mode
 npx cypress open
 __________________________________________________________________________________________________
 
