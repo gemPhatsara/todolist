@@ -6,8 +6,8 @@
 
 ### 1. Clone the repository
 Clone this repository to your local machine:
-git clone https://github.com/gemPhatsara/todolist.git
-cd todolist
+- git clone https://github.com/gemPhatsara/todolist.git
+- cd todolist
 
 ### 2. Install dependencies
 npm install
