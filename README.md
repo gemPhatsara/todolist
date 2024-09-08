@@ -1,8 +1,18 @@
-# todolist
-Setup Project Cypress
-1. ติดตั้ง Node.js เพื่อใช้งาน npm/npx
-2. npm install
-3. npx install cypress
+## Prerequisites
+- **Node.js** (version 18.x and above)
+- **nmp** (iincluded with Node,js) or **yarn**
+
+## Installation
+
+### 1. Clone the repository
+Clone this repository to your local machine:
+git clone https://github.com/gemPhatsara/todolist.git
+cd todolist
+### 2. Install dependencies
+npm install
+
+### 3. Install cypress
+npx install cypress
 __________________________________________________________________________________________________
 Runing test command
 npx cypress run
