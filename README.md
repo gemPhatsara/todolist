@@ -1,6 +1,6 @@
 ## Prerequisites
 - **Node.js** (version 18.x and above)
-- **npm** (iincluded with Node.js) or **yarn**
+- **npm** (included with Node.js) or **yarn**
 
 ## Installation
 
@@ -8,6 +8,7 @@
 Clone this repository to your local machine:
 git clone https://github.com/gemPhatsara/todolist.git
 cd todolist
+
 ### 2. Install dependencies
 npm install
 
