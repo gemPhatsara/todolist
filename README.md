@@ -1,8 +1,14 @@
 # todolist
 Setup Project Cypress
+1. ติดตั้ง Node.js เพื่อใช้งาน npm/npx
+2. npm install
+3. npx install cypress
+__________________________________________________________________________________________________
+Runing test command
+npx cypress run
+
+__________________________________________________________________________________________________
+Runing test ui
+npx cypress open
 
 
-1. ต้องติดตั้ง Node.js ก่อนเพื่อใช้งาน npm/npx
-2. npm init -y (สร้างไฟล์ package.json)
-3. npm install cypress --save-dev
-4. npm install -D cypress-xpath
