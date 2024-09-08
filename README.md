@@ -1,6 +1,6 @@
 ## Prerequisites
 - **Node.js** (version 18.x and above)
-- **nmp** (iincluded with Node,js) or **yarn**
+- **npm** (iincluded with Node,js) or **yarn**
 
 ## Installation
 
